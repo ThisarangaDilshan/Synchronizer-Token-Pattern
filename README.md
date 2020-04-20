@@ -45,12 +45,7 @@ git
     * username - admin
     * password - 1234
     
-# Screenshots
-
-  * <img width="1280" alt="Screen Shot 2020-04-20 at 11 51 PM" src="https://user-images.githubusercontent.com/43614338/66330379-e7aae100-e94d-11e9-8f09-1c5cf020bbf0.png">
-
-  * <img width="1280" alt="Screen Shot 2020-04-20 at 08 57 PM" src="https://user-images.githubusercontent.com/43614338/66330379-e7aae100-e94d-11e9-8f09-1c5cf020bbf0.png">
-  
+    
 # Contribute
  
  The best way to contribute is by spreading the word about the library:
