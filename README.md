@@ -1,4 +1,4 @@
-# Cross-Site Request Forgery (CSRF) Mitigation?—?Synchronizer Token Pattern
+# Cross-Site Request Forgery (CSRF) Mitigation-Synchronizer Token Pattern
 
 
 Technologies used: HTML, PHP, Java Script, ajax,
