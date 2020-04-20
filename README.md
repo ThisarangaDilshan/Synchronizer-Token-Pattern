@@ -17,7 +17,7 @@ The purpose of this project is for web security. This is SLIIT | Sri Lanka Insti
 
   * XAMPP
     * [Download XAMPP for windows](https://www.apachefriends.org/download_success.html)
-* [Download XAMPP for Mac]( https://www.apachefriends.org/download_success.html)
+    * [Download XAMPP for Mac]( https://www.apachefriends.org/download_success.html)
     
   
 # Development setup
